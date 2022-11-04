@@ -6,9 +6,9 @@ const category = [
 			"Dapatkan tips fashion pria dan saran gaya setiap hari di Mofa Store.",
 		tags: ["Jas", "Kemeja", "Kaos", "Kacamata", "Topi", "Jeans", "More.."],
 		image: [
-			"../IMG/category/men/shirts.png",
-			"../IMG/category/men/hodie.png",
-			"../IMG/category/men/t-shirt_.png",
+			"IMG/category/men/shirts.png",
+			"IMG/category/men/hodie.png",
+			"IMG/category/men/t-shirt_.png",
 		],
 	},
 	{
@@ -17,9 +17,9 @@ const category = [
 			"Temukan berbagai pakaian wanita, aksesori, kecantikan dan lainnya.",
 		tags: ["Rok", "Dress", "Hijab", "Kemeja", "Kalung", "Kacamata", "More.."],
 		image: [
-			"../IMG/category/women/blouse.png",
-			"../IMG/category/women/vens.png",
-			"../IMG/category/women/skirt.png",
+			"IMG/category/women/blouse.png",
+			"IMG/category/women/vens.png",
+			"IMG/category/women/skirt.png",
 		],
 	},
 	{
@@ -27,9 +27,9 @@ const category = [
 		ctgDesc: "Ciptakan fashion dan gaya hidup anak-anak di dunia.",
 		tags: ["Jas", "Jeans", "Topi", "Kaos", "Kacamata", "Jam Tangan", "More.."],
 		image: [
-			"../IMG/category/child/kaos.png",
-			"../IMG/category/child/suit.png",
-			"../IMG/category/child/jacket.png",
+			"IMG/category/child/kaos.png",
+			"IMG/category/child/suit.png",
+			"IMG/category/child/jacket.png",
 		],
 	},
 ];

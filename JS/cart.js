@@ -54,7 +54,7 @@ const styleWhenCartEmpty = () => {
 	}
 	boxCartItem.classList.add("empty");
 	return `<div class="emptyCart">
-	<img src="../IMG/empty-cart.png" alt="" width="50px" height="50px" />
+	<img src="IMG/empty-cart.png" alt="" width="50px" height="50px" />
 	<div class="infoCart">
 		<h3>Aduuh.. Keranjangmu kosong nii</h3>
 		<p>Kuy isi dengan item pilihanmu</p>

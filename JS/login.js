@@ -1,6 +1,6 @@
 // Style Pop Up
 
-const icon = ["../IMG/checked.png", "../IMG/close.png", "../IMG/warning.png"];
+const icon = ["IMG/checked.png", "IMG/close.png", "IMG/warning.png"];
 const colour = ["rgb(7, 222, 0)", "rgb(238, 255, 0)", "rgb(255, 131, 131)"];
 const info = document.querySelector(".container .info");
 const gambar = document.querySelector(".container .info .gambar");
@@ -62,7 +62,7 @@ function showBoxLogin() {
 
 	setTimeout(() => {
 		boxLogin.style.opacity = "1";
-		iconRegLog.src = "../IMG/login/login.png";
+		iconRegLog.src = "IMG/login/login.png";
 		iconRegLog.style.opacity = "1";
 	}, 500);
 }
@@ -76,7 +76,7 @@ function showBoxRegister() {
 
 	setTimeout(() => {
 		boxRegister.style.opacity = "1";
-		iconRegLog.src = "../IMG/login/register.png";
+		iconRegLog.src = "IMG/login/register.png";
 		iconRegLog.style.opacity = "1";
 	}, 500);
 }
