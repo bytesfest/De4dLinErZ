@@ -37,7 +37,7 @@ const cartButton = document.querySelector("nav .gambar img");
 
 cartButton.addEventListener("click", () => {
 	setTimeout(() => {
-		window.open("../HTML/cartShopping.html", "_self");
+		window.open("cartShopping.html", "_self");
 	}, 200);
 });
 

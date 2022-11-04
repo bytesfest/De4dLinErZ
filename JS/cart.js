@@ -86,16 +86,16 @@ const updateProductInCartHTML = () => {
 							data.basePrice
 						)}</span></span
           >
-					<img src="../IMG/trash-bin.png" alt="" class="trash" data-id="${data.idItem}">
+					<img src="IMG/trash-bin.png" alt="" class="trash" data-id="${data.idItem}">
         </div>
       </div>
       <div class="totalItem">
         <div class="countItem">
-          <img src="../IMG/minus.png" alt="" srcset="" class="minus" data-id="${
+          <img src="IMG/minus.png" alt="" srcset="" class="minus" data-id="${
 						data.idItem
 					}"/>
           <span>${data.totalItem}</span>
-          <img src="../IMG/plus.png" alt="" srcset="" class="plus" data-id="${
+          <img src="IMG/plus.png" alt="" srcset="" class="plus" data-id="${
 						data.idItem
 					}"/>
         </div>
